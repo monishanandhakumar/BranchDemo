@@ -4,8 +4,8 @@ namespace CollectionEg
 {
     class Program
     {
-        void Sub(){
-            c=45-32;
+        void display(){
+            Console.WriteLine("Changes done successfully");
         }
         static void Main(string[] args)
         {
