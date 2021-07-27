@@ -4,6 +4,10 @@ namespace CollectionEg
 {
     class Program
     {
+        void ADD()
+        {
+
+        }
         static void Main(string[] args)
         {
 
