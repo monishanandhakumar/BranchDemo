@@ -6,7 +6,7 @@ namespace CollectionEg
     {
         void ADD()
         {
-
+           int c=20+89;
         }
         static void Main(string[] args)
         {
